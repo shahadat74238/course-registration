@@ -1,98 +1,74 @@
 [
     {
         "id": 1,
-        "courseImg": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAADIBAMAAACg8cFmAAAAGFBMVEXt7e7KyszV1dfe3t/m5ufq6uvg4OHOztD3GVIkAAAAnklEQVR42u3OwQnCQBAAwENIASsWIFagpARtJCWID9v3c+d/QciezFQwDQAAAAAAAAAAAIAfWyJaQVpanVaGVoZWhlaGVobWHu7rUKq1xaA1ceu1Dq2OLc6tIC2tTitDK0MrQyvjv1vLY7hVah3iS2ve1vEyXFsZhzi1grS0Oq0MrQytDK0MrV28u2etVgxa87YAAAAAAAAAAAAApvYB2BwigkXIZZgAAAAASUVORK5CYII=",
-        "courseTitle": "Workplace Wellbeing: How to Build Confidence and Manage Stress",
-        "description": "Learn strategies to build confidence and manage stress in the workplace. Improve your mental health and well-being.",
-        "price": "49",
-        "credit_hrs": "3"
+        "courseImg": "https://i.ibb.co/jyZPh25/Rectangle-2.jpg",
+        "courseTitle": "Introduction to C Programming",
+        "price": 25000,
+        "credit_hrs": 3,
+        "description": "This course introduces you to the fundamentals of C programming. You'll learn the basics of syntax, data types, and control structures in C."
     },
     {
         "id": 2,
-        "courseImg": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAADIBAMAAACg8cFmAAAAGFBMVEXt7e7KyszV1dfe3t/m5ufq6uvg4OHOztD3GVIkAAAAnklEQVR42u3OwQnCQBAAwENIASsWIFagpARtJCWID9v3c+d/QciezFQwDQAAAAAAAAAAAIAfWyJaQVpanVaGVoZWhlaGVobWHu7rUKq1xaA1ceu1Dq2OLc6tIC2tTitDK0MrQyvjv1vLY7hVah3iS2ve1vEyXFsZhzi1grS0Oq0MrQytDK0MrV28u2etVgxa87YAAAAAAAAAAAAApvYB2BwigkXIZZgAAAAASUVORK5CYII=",
-        "courseTitle": "Health and Fitness: How to Design a Diet and Exercise Program",
-        "description": "Design a personalized diet and exercise program to improve your health and fitness. Expert guidance for a healthier lifestyle.",
-        "price": "59",
-        "credit_hrs": "4"
+        "courseImg": "https://i.ibb.co/c1ZTyBL/Rectangle-2-1.jpg",
+        "courseTitle": "Introduction to Algorithms",
+        "price": 30000,
+        "credit_hrs": 4,
+        "description": "Dive into the world of algorithms with this course. You'll explore algorithm design, analysis, and implementation."
     },
     {
         "id": 3,
-        "courseImg": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAADIBAMAAACg8cFmAAAAGFBMVEXt7e7KyszV1dfe3t/m5ufq6uvg4OHOztD3GVIkAAAAnklEQVR42u3OwQnCQBAAwENIASsWIFagpARtJCWID9v3c+d/QciezFQwDQAAAAAAAAAAAIAfWyJaQVpanVaGVoZWhlaGVobWHu7rUKq1xaA1ceu1Dq2OLc6tIC2tTitDK0MrQyvjv1vLY7hVah3iS2ve1vEyXFsZhzi1grS0Oq0MrQytDK0MrV28u2etVgxa87YAAAAAAAAAAAAApvYB2BwigkXIZZgAAAAASUVORK5CYII=",
-        "courseTitle": "Digital Marketing Analytics and Measurement: Advanced Web Analytics",
-        "description": "Advance your digital marketing skills with advanced web analytics. Measure campaign effectiveness and improve ROI.",
-        "price": "69",
-        "credit_hrs": "5"
+        "courseImg": "https://i.ibb.co/5TV1kfC/Rectangle-2-2.jpg",
+        "courseTitle": "Introduction to C++ for DSA ",
+        "price": 23000,
+        "credit_hrs": 5,
+        "description": "Learn C++ in the context of Data Structures and Algorithms (DSA). This course covers C++ programming and its application in DSA."
     },
     {
         "id": 4,
-        "courseImg": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAADIBAMAAACg8cFmAAAAGFBMVEXt7e7KyszV1dfe3t/m5ufq6uvg4OHOztD3GVIkAAAAnklEQVR42u3OwQnCQBAAwENIASsWIFagpARtJCWID9v3c+d/QciezFQwDQAAAAAAAAAAAIAfWyJaQVpanVaGVoZWhlaGVobWHu7rUKq1xaA1ceu1Dq2OLc6tIC2tTitDK0MrQyvjv1vLY7hVah3iS2ve1vEyXFsZhzi1grS0Oq0MrQytDK0MrV28u2etVgxa87YAAAAAAAAAAAAApvYB2BwigkXIZZgAAAAASUVORK5CYII=",
-        "courseTitle": "Introduction to Content Design",
-        "description": "Learn the basics of content design and create effective digital content. Improve your content strategy and engagement.",
-        "price": "39",
-        "credit_hrs": "2"
+        "courseImg": "https://i.ibb.co/XWSHS49/Rectangle-3.jpg",
+        "courseTitle": "Basic Data Structures",
+        "price": 15000,
+        "credit_hrs": 2,
+        "description": "This course focuses on essential data structures like arrays, linked lists, and stacks."
     },
     {
         "id": 5,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/02/3d/thumbnail_023dddeb-f981-45f1-90ae-ba0e6be97599.jpg",
-        "courseTitle": "Computer Programming for Everyone",
-        "description": "Discover the world of programming and coding. Learn the fundamentals of computer programming for beginners.",
-        "price": "49",
-        "credit_hrs": "3"
+        "courseImg": "https://i.ibb.co/Ycgdm2L/Rectangle-2-3.jpg",
+        "courseTitle": "Introduction to OOP Python",
+        "price": 2000,
+        "credit_hrs": 3,
+        "description": "Get started with Object-Oriented Programming (OOP) in Python. You'll explore classes, inheritance, and more."
     },
     {
         "id": 6,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/e9/74/thumbnail_e9742e37-39b9-48e2-9831-c6036dd522ee.jpg",
-        "courseTitle": "Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R",
-        "description": "Introduction to bioinformatics for biologists. Learn Linux, Bash scripting, and R for biological data analysis.",
-        "price": "59",
-        "credit_hrs": "4"
+        "courseImg": "https://i.ibb.co/jGLRyzd/Rectangle-2-4.jpg",
+        "courseTitle": "Software Engineering",
+        "price": 18000,
+        "credit_hrs": 4,
+        "description": "Dive into the principles and practices of software engineering. This course covers software development methodologies."
     },
     {
         "id": 7,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/27/a7/thumbnail_27a7c9c3-c30a-414a-9a65-8248fd9fe2aa.jpg",
-        "courseTitle": "Collaborative Coding with Git",
-        "description": "Collaborative coding with Git. Learn version control and collaboration using Git and GitHub.",
-        "price": "49",
-        "credit_hrs": "3"
+        "courseImg": "https://i.ibb.co/z5P6LcW/Rectangle-3-1.jpg",
+        "courseTitle": "AWS, Cloud Computing",
+        "price": 28000,
+        "credit_hrs": 3,
+        "description": "Learn about Amazon Web Services (AWS) and cloud computing. This course covers cloud infrastructure and services."
     },
     {
         "id": 8,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/7b/3f/thumbnail_7b3f24c6-68ff-495d-a374-42f7b6b82354.jpg",
-        "courseTitle": "AI for Legal Professionals (II): Tools for Lawyers",
-        "description": "Explore AI tools for legal professionals. Enhance your legal practice with AI-powered solutions.",
-        "price": "69",
-        "credit_hrs": "5"
+        "courseImg": "https://i.ibb.co/c2fkc1f/Rectangle-2-5.jpg",
+        "courseTitle": "Database (MySQL)",
+        "price": 21000,
+        "credit_hrs": 5,
+        "description": "Dive into the world of databases with a focus on MySQL. This course covers database design and SQL."
     },
     {
         "id": 9,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/12/1d/thumbnail_121dd21c-baa3-4f90-93d1-041e2cdb13b9.jpg",
-        "courseTitle": "Introduction to JavaScript",
-        "description": "Get started with JavaScript programming. Learn the fundamentals of web development with JavaScript.",
-        "price": "39",
-        "credit_hrs": "2"
-    },
-    {
-        "id": 10,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/b8/02/thumbnail_b8023e32-4665-4bb6-9c57-21441647d5eb.jpg",
-        "courseTitle": "Interview Preparation for Java Developers",
-        "description": "Prepare for Java developer interviews. Learn essential concepts and techniques for a successful interview.",
-        "price": "59",
-        "credit_hrs": "4"
-    },
-    {
-        "id": 11,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/20/f6/thumbnail_20f61f17-fecf-43e8-97a6-475b0b2c2b75.jpg",
-        "courseTitle": "A Beginner's Guide to C# and .NET",
-        "description": "Beginner's guide to C# and .NET. Learn the basics of C# programming and .NET development.",
-        "price": "49",
-        "credit_hrs": "3"
-    },
-    {
-        "id": 12,
-        "courseImg": "https://ugc.futurelearn.com/uploads/images/f5/db/thumbnail_f5db1c2d-f2e7-4966-9d11-689e7ee87cf1.jpg",
-        "courseTitle": "A Beginner’s Guide to Web Development with HTML5",
-        "description": "Start your web development journey with HTML5. Learn to create web pages and web applications.",
-        "price": "39",
-        "credit_hrs": "2"
+        "courseImg": "https://i.ibb.co/HPksLWp/Rectangle-2-6.jpg",
+        "courseTitle": "Problem-Solving Part",
+        "price": 33000,
+        "credit_hrs": 2,
+        "description": "Enhance your problem-solving skills with this course. It covers various problem-solving techniques."
     }
 ]
