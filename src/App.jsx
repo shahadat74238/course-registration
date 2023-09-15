@@ -27,7 +27,16 @@ function App() {
     let countPrice = course.price;
 
     if (isExist) {
-      return toast("This cart is already added");
+      return toast.warn('This course is already added!!!', {
+        position: "top-right",
+        autoClose: 3000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: undefined,
+        theme: "light",
+        });
     } else {
       carts.forEach((time) => {
         countTime = countTime + time.credit_hrs;
@@ -40,7 +49,16 @@ function App() {
       const totalRemainingTime = 20 - countTime;
       
       if (totalRemainingTime < 0) {
-        return toast("Your credit is over !!!!!");
+        return toast.warn('Your credit is over now!!!!', {
+          position: "top-center",
+          autoClose: 3000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "light",
+          });
       }
 
       setCarts([...carts, course]);
