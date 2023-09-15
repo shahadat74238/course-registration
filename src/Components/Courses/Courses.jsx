@@ -3,7 +3,7 @@ import Course from "../Course/Course";
 const Courses = ({course, handleAdd}) => {
   
   return (
-    <div className="lg:w-3/4 mb-20 grid grid-cols-1 lg:grid-cols-3 gap-6">
+    <div className="lg:w-3/4 md:w-2/4 mb-20 grid grid-cols-1 lg:grid-cols-3 gap-6">
       {course.map((course) => (
         <Course key={course.id}
          handleAdd = {handleAdd}

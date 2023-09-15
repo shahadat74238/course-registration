@@ -71,7 +71,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <main className="container mx-auto p-5 lg:p-0">
+      <main className="container mx-auto p-5 ">
         <div className="flex flex-col md:flex-row gap-6">
           <Courses course={course} handleAdd={handleAdd}></Courses>
           <Aside
