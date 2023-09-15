@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import { BsBook, BsCurrencyDollar } from 'react-icons/bs';
 
+
 const Course = ({ course, handleAdd, handelAddTime }) => {
   const { courseTitle, courseImg, description, price, credit_hrs } = course;
 
@@ -30,6 +31,7 @@ const Course = ({ course, handleAdd, handelAddTime }) => {
         >
           Select
         </button>
+        
       </div>
     </div>
   );
