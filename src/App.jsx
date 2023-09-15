@@ -20,14 +20,19 @@ function App() {
   }, []);
 
   const handleAdd = (course) => {
-    const newCard = [...carts, course];
-    setCarts(newCard);
+    const isExist = carts.find((cart_title)=> cart_title.id === course.id);
+    if(isExist){
+      alert('ddd')
+    }
+    else{
+      const newCard = [...carts, course];
+      setCarts(newCard);
+    }
   };
 
   const handelAddTime = (credit_hrs, price) => {
-    console.log('work', credit_hrs);
-    setCreditTime(creditTime + credit_hrs)
-
+    setCreditTime(creditTime + credit_hrs);
+    
     setAddPrice(addPrice + price);
   }
 
