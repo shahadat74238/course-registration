@@ -37,7 +37,7 @@
         "courseTitle": "Introduction to OOP Python",
         "price": 2000,
         "credit_hrs": 3,
-        "description": "Get started with Object-Oriented Programming (OOP) in Python. You'll explore classes, inheritance, and more."
+        "description": "Get started with Object-Oriented Programming (OOP) in Python. You'll explore classes, inheritance."
     },
     {
         "id": 6,
