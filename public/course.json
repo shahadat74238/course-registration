@@ -5,7 +5,7 @@
         "courseTitle": "Introduction to C Programming",
         "price": 25000,
         "credit_hrs": 3,
-        "description": "This course introduces you to the fundamentals of C programming. You'll learn the basics of syntax, data types, and control structures in C."
+        "description": "This course introduces you to the fundamentals of C programming. You'll learn the basics of syntax."
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "courseTitle": "Introduction to Algorithms",
         "price": 30000,
         "credit_hrs": 4,
-        "description": "Dive into the world of algorithms with this course. You'll explore algorithm design, analysis, and implementation."
+        "description": "Dive into the world of algorithms with this course. You'll explore algorithm design and analysis."
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "courseTitle": "Introduction to C++ for DSA ",
         "price": 23000,
         "credit_hrs": 5,
-        "description": "Learn C++ in the context of Data Structures and Algorithms (DSA). This course covers C++ programming and its application in DSA."
+        "description": "Learn C++ in the context of Data Structures and Algorithms (DSA). This course covers C++ programming."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "courseTitle": "Software Engineering",
         "price": 18000,
         "credit_hrs": 4,
-        "description": "Dive into the principles and practices of software engineering. This course covers software development methodologies."
+        "description": "Dive into the principles and practices of software engineering. This course covers software development."
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "courseTitle": "AWS, Cloud Computing",
         "price": 28000,
         "credit_hrs": 3,
-        "description": "Learn about Amazon Web Services (AWS) and cloud computing. This course covers cloud infrastructure and services."
+        "description": "Learn about Amazon Web Services (AWS) and cloud computing. This course covers cloud infrastructure."
     },
     {
         "id": 8,
