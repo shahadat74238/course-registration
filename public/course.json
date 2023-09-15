@@ -4,7 +4,7 @@
         "courseImg": "https://i.ibb.co/jyZPh25/Rectangle-2.jpg",
         "courseTitle": "Introduction to C Programming",
         "price": 25000,
-        "credit_hrs": 3,
+        "credit_hrs": 10,
         "description": "This course introduces you to the fundamentals of C programming. You'll learn the basics of syntax."
     },
     {
